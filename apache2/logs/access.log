@@ -862,3 +862,4 @@
 ::1 - - [17/May/2022:16:02:36 +0400] "POST /phpmyadmin/index.php?route=/config/set HTTP/1.1" 200 1716
 ::1 - - [17/May/2022:16:02:39 +0400] "GET /phpmyadmin/index.php?route=/sql&server=1&db=root&table=admin&pos=0&ajax_request=true&ajax_page_request=true&_nocache=1652788959414751872&token=3b66487460702b5b7969523e785c7c57 HTTP/1.1" 200 9326
 ::1 - - [17/May/2022:16:02:40 +0400] "GET /phpmyadmin/index.php?route=/recent-table&ajax_request=1&recent_table=1&no_debug=true&_nocache=1652788960449391187&token=3b66487460702b5b7969523e785c7c57 HTTP/1.1" 200 1813
+::1 - - [17/May/2022:16:26:36 +0400] "POST /phpmyadmin/index.php?route=/ HTTP/1.1" 200 1750
